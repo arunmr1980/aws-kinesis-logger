@@ -1,3 +1,7 @@
+# sam files
+.aws-sam
+target
+
 # Compiled class file
 *.class
 
